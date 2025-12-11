@@ -1,0 +1,665 @@
+{
+    "media": {
+        "0": "Oil Paint",
+        "1": "Soft Pastel",
+        "2": "Colored Pencil",
+        "3": "Lithography Ink",
+        "4": "Oil Ground",
+        "5": "Oil Pastel",
+        "6": "Acrylic Paint",
+        "7": "Gesso",
+        "8": "Gouache",
+        "9": "Watercolor",
+        "10": "Various Trash",
+        "11": "Graphite",
+        "12": "Fluid Acrylic Paint",
+        "13": "Charcoal",
+        "14": "Gloss Medium",
+        "15": "Marble Dust"
+    },
+    "collections": {
+        "0": {
+           "title": "Do You Remember?",
+           "location": "Turner Gallery, Alfred University, New York",
+           "initial_date": "02/2023",
+           "end_date": "02/2023" 
+        },
+        "1": {
+            "title": "Senior Thesis Show May 2023",
+            "location": "Alfred University",
+            "initial_date": "05/2023",
+            "end_date": "05/2023"
+         },
+        "2": {
+            "title": "Print Residency November 2023",
+            "location":"Constellation Studios, Lincoln, Nebraska",
+            "initial_date":"10/31/2023",
+            "end_date":"11/14/2023"
+        },
+        "3":{
+            "title":"Print Workshop 2023",
+            "location":"Anderson Ranch, Aspen Colorado",
+            "initial_date":"08/2023",
+            "end_date":"08/2023"
+        },
+        "4":{
+            "title":"Dusseldorf Residency 2023",
+            "location":"Dusseldorf, Germany",
+            "initial_date":"06/06/2023",
+            "end_date":"06/28/2023"
+        }
+    },
+    "pieces": {
+        "RUPMI26HFY4B": {
+            "title": "APRICOTS",
+            "media": [1,5,7],
+            "date": "10/2022",
+            "collections":[0],
+            "wallpaper": true
+        },
+        "0CAT3RKFYPVB": {
+            "title": "Old Receipts Detail",
+            "media": [10],
+            "date": "05/2023",
+            "collections":[1]
+        },
+        "I9DYVP0B7H5T": {
+            "title": "Elliot",
+            "media": [1,5,6,7],
+            "date": "10/2022",
+            "collections":[1,0],
+            "wallpaper": true
+        },
+        "HRPVSNT8FWXG": {
+            "title": "Emilia",
+            "media": [0,1,6,5,4,7],
+            "date": "05/2023",
+            "collections":[1],
+            "wallpaper": true
+        },
+        "OC1SI87DQ5HW": {
+            "title": "Solitude",
+            "media": [3],
+            "date": "08/2023",
+            "collections":[3],
+            "wallpaper": true
+        },
+        "L381YDW94PRQ": {
+            "title": "Ghosts",
+            "media": [0,1,5,6],
+            "date": "04/2023",
+            "collections":[0,1]
+        },
+        "W1P20Q967VJK": {
+            "title": "House",
+            "media": [0,4,1],
+            "date": "10/2022",
+            "collections":[1],
+            "wallpaper": true
+        },
+        "53VLZA4E92KF": {
+            "title": "Echoes",
+            "media": [2,1,5,6,7,8,9],
+            "date": "06/2023",
+            "collections":[4]
+        },
+        "B2KQIDPOM46N": {
+            "title": "Industrial Sun",
+            "media": [3],
+            "date": "08/2023",
+            "collections":[3],
+            "wallpaper": true
+        },
+        "0YDXQJBEC54R": {
+            "title": "Old Receipts",
+            "media": [10],
+            "date": "05/2023",
+            "collections":[1]
+        },
+        "TCEQ1D23FOML": {
+            "title": "Mother",
+            "media": [0,1,5,7],
+            "date": "12/2022",
+            "collections":[0,1],
+            "wallpaper": true
+        },
+        "BIFSQ2ERVTUL": {
+            "title": "Mum",
+            "media": [5,0,1,6],
+            "date": "11/2022",
+            "collections":[0,1],
+            "wallpaper": true
+        },
+        "QNEGD4OBTMFS": {
+            "title": "Place",
+            "media": [3],
+            "date": "05/2023",
+            "collections":[0]
+        },
+        "EQJ86HNO43DU": {
+            "title": "Reflections i",
+            "media": [0,4],
+            "date": "02/2023",
+            "collections": [1],
+            "wallpaper": true
+        },
+        "M7TKG2A5E93W": {
+            "title": "Sense",
+            "media": [0,1,5,6],
+            "date": "11/2022",
+            "collections":[0,1]
+        },
+        "ZQABPN6GCV7D": {
+            "title": "Snowdrops",
+            "media": [5,1],
+            "date": "02/2023",
+            "collections":[0,1],
+            "wallpaper": true
+        },
+        "I9W4OE0NFTYG": {
+            "title": "Things I'm Scared Of",
+            "media": [8,9],
+            "date": "10/2023"
+        },
+        "SHOZUE6QF0XR": {
+            "title": "Ugly Duckling",
+            "media": [8,1],
+            "date": "05/2023",
+            "collections":[1]
+        },
+        "R3W026I17J5H": {
+            "title": "Ugly Ducklings",
+            "media": [3,2],
+            "date": "11/2023",
+            "collections":[2]
+        },
+        "I3A562LZJVOC": {
+            "title": "Ugly Ducklings Details",
+            "media": [3,2],
+            "date": "11/2023",
+            "collections":[2],
+            "wallpaper": true,
+            "related": "R3W026I17J5H",
+			"omitFromGallery": true
+        },
+        "5869TEZU5RMV": {
+            "title": "Far Away",
+            "media": [5],
+            "size": "",
+            "date": "2024",
+            "related": "",
+			"omitFromGallery": true
+        },
+        "AKBJWRJ7995A": {
+            "title": "close up of Far Away",
+            "media": [5],
+            "date": "2024",
+            "related": "5869TEZU5RMV",
+			"omitFromGallery": true
+        },
+        "RWP023X3Y9O2": {
+            "title": "DIVA",
+            "media": [6,1,5,11],
+            "size": "12\" x  12\"",
+            "date": "2025",
+            "related": "",
+			"omitFromGallery": true
+        },
+        "BYO5OQ40ENP5": {
+            "title": "close up of DIVA",
+            "media": [6,1,5,11],
+            "size": "12\" x  12\"",
+            "date": "2025",
+            "related": "RWP023X3Y9O2",
+			"omitFromGallery": true
+        },
+        "8JMN8XQ7MB76": {
+            "title": "another close up of DIVA",
+            "media": [6,1,5,11],
+            "size": "12\" x  12\"",
+            "date": "2025",
+            "related": "RWP023X3Y9O2",
+			"omitFromGallery": true
+        },
+        "45KC4L4WTHQ8": {
+            "title": "STING",
+            "media": [6,1,11,5],
+            "size": "12\" x  12\"",
+            "date": "2025",
+            "related": "",
+			"omitFromGallery": true
+        },
+        "3YINTN0E0QC9": {
+            "title": "close up of STING",
+            "media": [6,1,11,5],
+            "size": "12\" x  12\"",
+            "date": "2025",
+            "related": "45KC4L4WTHQ8",
+			"omitFromGallery": true
+        },
+        "24A9GN6PO3DC": {
+            "title": "nap time",
+            "media": [5],
+            "size": "12\" x  8\"",
+            "date": "2025",
+            "related": "",
+			"omitFromGallery": true
+        },
+        "HIEI7TJ9AAV6": {
+            "title": "Overeasy",
+            "media": [5],
+            "size": "5\" x  8.5\"",
+            "date": "2025",
+            "related": "",
+			"omitFromGallery": true
+        },
+        "MEM1Y9T96N0Y": {
+            "title": "close up of Overeasy",
+            "media": [5],
+            "size": "5\" x  8.5\"",
+            "date": "2025",
+            "related": "HIEI7TJ9AAV6",
+			"omitFromGallery": true
+        },
+        "2DN7D7NY54DC": {
+            "title": "Yolk",
+            "media": [5],
+            "size": "5\" x  8.5\"",
+            "date": "2025",
+            "related": "",
+			"omitFromGallery": true
+        },
+        "2UCIHEKVVCNC": {
+            "title": "Steel Toe Boots",
+            "media": [12,5,1],
+            "size": "12\" x  12\"",
+            "date": "2025",
+            "related": "",
+			"omitFromGallery": true
+        },
+        "8BDF46ND0GPS": {
+            "title": "close up of Steel Toe Boots",
+            "media": [12,5,1],
+            "size": "12\" x  12\"",
+            "date": "2025",
+            "related": "2UCIHEKVVCNC",
+			"omitFromGallery": true
+        },
+        "KR4CLZ77VAXU": {
+            "title": "whisper",
+            "media": [12,13,11,8],
+            "size": "7' x 4'",
+            "date": "2024"
+        },
+        "0QPYEABJLSF7": {
+            "title": "close up of whisper",
+            "media": [12,13,11,8],
+            "size": "7' x 4'",
+            "date": "2024",
+            "related": "KR4CLZ77VAXU",
+			"omitFromGallery": true
+        },
+        "7ECAERD83CRT": {
+            "title": "close up of whisper",
+            "media": [12,13,11,8],
+            "size": "7' x 4'",
+            "date": "2024",
+            "related": "KR4CLZ77VAXU",
+			"omitFromGallery": true
+        },
+        "A8AUBJIYFR5F": {
+            "title": "whisper (revised)",
+            "media": [12,13,11,8],
+            "size": "7' x 4'",
+            "date": "2024"
+        },
+        "1AUKAZ7PX5QC": {
+            "title": "close up of whisper (revised)",
+            "media": [12,13,11,8],
+            "size": "7' x 4'",
+            "date": "2024",
+            "related": "A8AUBJIYFR5F",
+			"omitFromGallery": true
+        },
+        "GWE3YY948CUU": {
+            "title": "close up of whisper (revised)",
+            "media": [5,6],
+            "size": "18\" x 24\"",
+            "date": "2025",
+            "related": "A8AUBJIYFR5F",
+			"omitFromGallery": true
+        },
+        "3DCLG7GECS3V": {
+            "title": "Closer",
+            "media": [5],
+            "size": "30\" x 30\"",
+            "date": "2024"
+        },
+        "JH9J5Z6X8ML8": {
+            "title": "Escargot",
+            "media": [6,5,1],
+            "size": "6' x 5'",
+            "date": "2024"
+        },
+        "3JM5D4ECCF44": {
+            "title": "close up of Escargot",
+            "media": [6,5,1],
+            "size": "6' x 5'",
+            "date": "2024",
+            "related": "JH9J5Z6X8ML8",
+			"omitFromGallery": true
+        },
+        "5DT91IIY4HD0": {
+            "title": "Green, Green",
+            "media": [6,1,8],
+            "size": "12\" x 12\"",
+            "date": "2024"
+        },
+        "JCG2FVAQNSBQ": {
+            "title": "close up of Green, Green",
+            "media": [6,1,8],
+            "size": "12\" x 12\"",
+            "date": "2024",
+            "related": "5DT91IIY4HD0",
+			"omitFromGallery": true
+        },
+        "UCV9THDX61KD": {
+            "title": "Unlimited",
+            "media": [12,1,0],
+            "size": "12\" x 12\"",
+            "date": "2024"
+        },
+        "9X7YUBJLEGCE": {
+            "title": "close up of Unlimited",
+            "media": [12,1,0],
+            "size": "12\" x 12\"",
+            "date": "2024",
+            "related": "UCV9THDX61KD",
+			"omitFromGallery": true
+        },
+        "NVKF15CLKIA1": {
+            "title": "close up of Unlimited",
+            "media": [12,1,0],
+            "size": "12\" x 12\"",
+            "date": "2024",
+            "related": "UCV9THDX61KD",
+			"omitFromGallery": true
+        },
+        "KGXFU322AV2M": {
+            "title": "distant shot of Unlimited",
+            "media": [12,1,0],
+            "size": "12\" x 12\"",
+            "date": "2024",
+            "related": "UCV9THDX61KD",
+			"omitFromGallery": true
+        },
+        "89TWHTLAM6MH": {
+            "title": "Alice",
+            "media": [0,5],
+            "size": "36\" x 36\"",
+            "date": "2024"
+        },
+        "BJAOJHVOQ6OW": {
+            "title": "Cold Shoulder",
+            "media": [1,6],
+            "size": "12\" x 19\"",
+            "date": "2024"
+        },
+        "XC405BFHWWW7": {
+            "title": "Red Wine",
+            "media": [12,1,5,14],
+            "size": "8' x 8'",
+            "date": "2024"
+        },
+        "C3GGT36VSF0L": {
+            "title": "close up of Red Wine",
+            "media": [12,1,5,14],
+            "size": "8' x 8'",
+            "date": "2024",
+            "related": "XC405BFHWWW7",
+			"omitFromGallery": true
+        },
+        "T0IWTBZU3C9T": {
+            "title": "close up of Red Wine",
+            "media": [12,1,5,14],
+            "size": "8' x 8'",
+            "date": "2024",
+            "related": "XC405BFHWWW7",
+			"omitFromGallery": true
+        },        
+        "DZXXFZ7LSJZQ": {
+            "title": "Red Wine (in progress)",
+            "media": [12,1,5,14],
+            "size": "8' x 8'",
+            "date": "2024",
+            "related": "XC405BFHWWW7",
+			"omitFromGallery": true
+        },
+        "QI8XRZQJFDXC": {
+            "title": "Red Wine (in progress)",
+            "media": [12,1,5,14],
+            "size": "8' x 8'",
+            "date": "2024",
+            "related": "XC405BFHWWW7",
+			"omitFromGallery": true
+        },
+        "ZFYIHRO7MG8M": {
+            "title": "Red Wine (in progress)",
+            "media": [12,1,5,14],
+            "size": "8' x 8'",
+            "date": "2024",
+            "related": "XC405BFHWWW7",
+			"omitFromGallery": true
+        },
+        "I4E42FG5DPWT": {
+            "title": "Afternoon Drop",
+            "media": [5,6],
+            "size": "18\" x 24\"",
+            "date": "2025"
+        },
+        "FMLLGOYIRJ8E": {
+            "title": "Afternoon Drop (in progress)",
+            "media": [5,6],
+            "size": "18\" x 24\"",
+            "date": "2025",
+            "related": "I4E42FG5DPWT",
+			"omitFromGallery": true
+        },
+        "H28Q3LMOSP09": {
+            "title": "Speed Racer",
+            "media": [6,5,11],
+            "size": "11\" x 17\"",
+            "date": "2025"
+        },
+        "PHEO8MIOSIIK": {
+            "title": "close up of Speed Racer",
+            "media": [6,5,11],
+            "size": "11\" x 17\"",
+            "date": "2025",
+            "related": "H28Q3LMOSP09",
+			"omitFromGallery": true
+        },
+        "T667J3A7ZCPE": {
+            "title": "Breathing Room",
+            "media": [6,11,5],
+            "size": "12\" x 19\"",
+            "date": "2025"
+        },
+        "JQB10PG07RF7": {
+            "title": "close up of Breathing Room",
+            "media": [6,11,5],
+            "size": "12\" x 19\"",
+            "date": "2025",
+            "related": "T667J3A7ZCPE",
+			"omitFromGallery": true
+        },
+        "LR88KMZQ5J1B": {
+            "title": "close up of Breathing Room",
+            "media": [6,11,5],
+            "size": "12\" x 19\"",
+            "date": "2025",
+            "related": "T667J3A7ZCPE",
+			"omitFromGallery": true
+        },
+        "T4ULH1N64L7S": {
+            "title": "close up of Breathing Room",
+            "media": [6,11,5],
+            "size": "12\" x 19\"",
+            "date": "2025",
+            "related": "T667J3A7ZCPE",
+			"omitFromGallery": true
+        },
+        "O21PW4BTTMRN": {
+            "title": "Baltimore",
+            "media": [6,1,5],
+            "size": "36\" x 36\"",
+            "date": "2024"
+        },
+        "P0VI7PVMVEM2": {
+            "title": "Outshine",
+            "media": [5],
+            "size": "12\" x 16\"",
+            "date": "2025"
+        },
+        "QBFNOHMXWJ4F": {
+            "title": "Don't Talk Too Much",
+            "media": [1,6],
+            "size": "12\" x 19\"",
+            "date": "2024"
+        },
+        "S2EDJXSXFGDF": {
+            "title": "Golden Goose",
+            "media": [5],
+            "size": "18\" x 24\"",
+            "date": "2025"
+        },
+        "XA0NTKTCHMQP": {
+            "title": "Home",
+            "media": [5,6],
+            "size": "36\" x 36\"",
+            "date": "2024"
+        },
+        "ZW6WNQY9XIAQ": {
+            "title": "Meddling",
+            "media": [6,7,1,5],
+            "size": "5\" x 5\"",
+            "date": "2025"
+        },
+        "PDMSZ8W4JFNK": {
+            "title": "101",
+            "media": [6,1,8],
+            "size": "4' x 3'",
+            "date": "2024",
+            "related": "",
+			"omitFromGallery": true
+        },
+        "0A141OG1U095": {
+            "title": "close up of 101",
+            "media": [6,1,8],
+            "size": "4' x 3'",
+            "date": "2024",
+            "related": "PDMSZ8W4JFNK",
+			"omitFromGallery": true
+        },
+        "Y4TE75W164OK": {
+            "title": "close up of 101",
+            "media": [6,1,8],
+            "size": "4' x 3'",
+            "date": "2024",
+            "related": "PDMSZ8W4JFNK",
+			"omitFromGallery": true
+        },
+        "VMVM625D77AN": {
+            "title": "Into the Unknown",
+            "media": [12,1,11,15],
+            "size": "8' x 4'",
+            "date": "2025"
+        },
+        "0HDOND3S5YOL": {
+            "title": "close up of Into the Unknown",
+            "media": [12,1,11,15],
+            "size": "8' x 4'",
+            "date": "2025",
+            "related": "VMVM625D77AN",
+			"omitFromGallery": true
+        },
+        "GU5WY2B6U6KC": {
+            "title": "close up of Into the Unknown",
+            "media": [12,1,11,15],
+            "size": "8' x 4'",
+            "date": "2025",
+            "related": "VMVM625D77AN",
+			"omitFromGallery": true
+        },
+        "JSCM7LGGGCD0": {
+            "title": "close up of Into the Unknown",
+            "media": [12,1,11,15],
+            "size": "8' x 4'",
+            "date": "2025",
+            "related": "VMVM625D77AN",
+			"omitFromGallery": true
+        },
+        "OLVEZ56PSBNF": {
+            "title": "close up of Into the Unknown",
+            "media": [12,1,11,15],
+            "size": "8' x 4'",
+            "date": "2025",
+            "related": "VMVM625D77AN",
+			"omitFromGallery": true
+        },
+        "2NY0XJW0ELKM": {
+            "title": "Secunda",
+            "media": [13],
+            "size": "12\" x 18\"",
+            "date": "2025"
+        },
+        "5S8DR5MGHJMC": {
+            "title": "castle on a cloud",
+            "media": [0],
+            "size": "12\" x 12\"",
+            "date": "2025"
+        },
+        "L10T1YFW1TSS": {
+            "title": "close up of castle on a cloud",
+            "media": [0],
+            "size": "12\" x 12\"",
+            "date": "2025",
+            "related": "5S8DR5MGHJMC",
+			"omitFromGallery": true
+        },
+        "LGC6Q88IO0WW": {
+            "title": "Old Boots",
+            "media": [6,1,5,8],
+            "size": "4' x 3'",
+            "date": "2024"
+        },
+        "AJ56WDARCKW7": {
+            "title": "close up of Old Boots",
+            "media": [6,1,5,8],
+            "size": "4' x 3'",
+            "date": "2024",
+            "related": "LGC6Q88IO0WW",
+			"omitFromGallery": true
+        },
+        "K5KV5V0BWCEY": {
+            "title": "close up of Old Boots",
+            "media": [6,1,5,8],
+            "size": "4' x 3'",
+            "date": "2024",
+            "related": "LGC6Q88IO0WW",
+			"omitFromGallery": true
+        },
+        "DOQ385RZB4Y2": {
+            "title": "shadow lemon",
+            "media": [13],
+            "size": "12\" x 18\"",
+            "date": "2025"
+        },
+        "IGUJ280N0E80": {
+            "title": "Seeing Double",
+            "media": [13],
+            "size": "12\" x 18\"",
+            "date": "2025"
+        }
+    }
+}
