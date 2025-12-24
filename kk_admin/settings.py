@@ -28,9 +28,12 @@ SECRET_KEY = 'django-insecure-_ae%m#38rhn5byz6j8uk=fve%a!r$(47@vxa^ktlce6efyycgu
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'localhost',
-    'localhost:*',
-    '127.0.0.1'
+    # 'localhost',
+    # 'localhost:*',
+    # '127.0.0.1',
+    # '100.28.125.58',
+    'db.katiekisiel.com',
+    'admin.katiekisiel.com'
 ]
 
 
@@ -88,12 +91,19 @@ CSRF_TRUSTED_ORIGINS = [
 ]
 CORS_ORIGIN_ALLOW_ALL = False
 CORS_ORIGIN_WHITELIST = (
-    'http://localhost:8081',
-    'http://localhost:4200',
-    'http://localhost:*'
+    # 'http://localhost:8081',
+    # 'http://localhost:4200',
+    # 'http://localhost:3000',
+    # 'http://localhost:*',
+    # '100.28.125.58',
+    'https://db.katiekisiel.com',
+    'https://admin.katiekisiel.com'
 )
 CORS_ALLOWED_ORIGINS = (
-    'http://localhost:4200',
+    # 'http://localhost:4200',
+    # 'http://localhost:3000',
+    # 'http://localhost:5173',
+    'https://www.katiekisiel.com',
 )
 CORS_ALLOW_CREDENTIALS = True
 

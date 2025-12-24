@@ -17,6 +17,8 @@ router.register('collections', views.CollectionViewSet)
 urlpatterns = [
     path('admin/', admin.site.urls),
 
+    path('api/everything', views.get_everything),
+
     path('api/pieces/titles', views.PieceViewSet.title_list),
 
     path('api/', include(router.urls)),
