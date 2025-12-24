@@ -14,7 +14,7 @@ class Medium(models.Model):
 class Piece(models.Model):
     title = models.CharField(max_length=60)
     filename = models.CharField(max_length=60, blank=True, null=True)
-    date = models.CharField(default=None, blank=True, null=True, max_length=65)
+    date = models.CharField(blank=True, null=True, max_length=65)
     description = models.CharField(max_length=255, blank=True, null=True)
     collections = models.ManyToManyField(Collection, related_name='collections', blank=True)
     media = models.ManyToManyField(Medium, related_name='media')
